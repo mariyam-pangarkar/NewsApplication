@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "536625700874",
+    "project_id": "marynews-7deae",
+    "storage_bucket": "marynews-7deae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536625700874:android:30df0cc9ee02972141fff3",
+        "android_client_info": {
+          "package_name": "com.example.mary_news"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvpJyKXHT-lhEJWsuKQasV9VWs9SQ5ppc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
